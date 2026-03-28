@@ -1,6 +1,6 @@
 All right: 
 
-got 5 VMS in AWS :
+got 5 VMS in AWS : using kubeadm we are setting up the cluster
 
 KUBE_HA_PROXY : 172.31.29.162
 KUBE_HA_CONTROL1: 172.31.20.245  
